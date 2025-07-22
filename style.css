@@ -153,6 +153,9 @@ section {
     color: #ee5f06;
     font-size: 1.2em;
 }
+.contact-item i.fa-whatsapp {
+    color: #25D366; /* هذا هو اللون الرسمي لأيقونة واتساب */
+}
 
 .contact-item a {
     color: #3a6cf4;
